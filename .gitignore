@@ -1,0 +1,13 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+
+data/
+mlruns/
+models/
+*.pkl
+*.joblib
+*.csv
+
+.vscode/
