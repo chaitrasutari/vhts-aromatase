@@ -50,8 +50,8 @@ st.divider()
 st.subheader("📂 Batch Screening (CSV Upload)")
 
 # Security Limits
-MAX_ROWS = 10000
-MAX_SMILES_LENGTH = 500
+MAX_ROWS = 9999
+MAX_SMILES_LENGTH = 499
 
 # UI Lock: Only allows .csv in the file explorer
 uploaded_file = st.file_uploader(f"Upload CSV containing SMILES strings (Max {MAX_ROWS:,} rows)", type=["csv"])
