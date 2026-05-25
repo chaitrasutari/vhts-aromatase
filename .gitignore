@@ -9,5 +9,6 @@ models/
 *.pkl
 *.joblib
 *.csv
+*.ini
 
 .vscode/
