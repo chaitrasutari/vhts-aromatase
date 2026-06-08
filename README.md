@@ -40,6 +40,9 @@ Tree-based models are strong interpolators but can be unreliable on molecules fa
 
 ---
 
+<img width="1904" height="537" alt="pako_eNp9Vdty4kYQ_ZWuSXlfFggXC7x6cCoIY7sCWWcV7yYRVGosNTBrMaOdGTlmKf97WjcQKhI9SHM5PdPn9EV7FqoImcvWmicb-H2ykEDPxQU8GtRwL5PUmmLNpE8FyIsFSgtB-b2XFvWKh7gscNnzeB_4ViPfxsLCF3yihdpufurPgS_kOkbw5_ezGx8IT_MltNvXhG6Ax8GY25Cu9j" src="https://github.com/user-attachments/assets/31032074-169e-4218-b476-eafd39f422df" />
+
+
 ## Tech Stack
 
 - **Model:** XGBoost classifier
